@@ -29,7 +29,7 @@
 
 1. **Клонуйте репозиторій:**
    ```bash
-   git clone [https://github.com/ВАШ_НІКНЕЙМ/python-fun-bot.git](https://github.com/ВАШ_НІКНЕЙМ/python-fun-bot.git)
+   git clone [https://github.com/ВАШ_НІКНЕЙМ/chat_bot.git](https://github.com/ВАШ_НІКНЕЙМ/chat_bot.git)
    
 2. **Встановіть залежності:**
   ```bash
