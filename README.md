@@ -30,7 +30,7 @@
 1. Клонуйте репозиторій:
 
 ```powershell
-git clone https://github.com/ВАШ_НІКНЕЙМ/chat_bot.git
+git clone https://github.com/v-ovdiichuk/chat_bot.git
 ```
 
 2. Встановіть залежності:
